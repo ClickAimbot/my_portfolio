@@ -3,12 +3,38 @@ import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
 
 import { SocialIcons } from '../Header/HeaderStyles';
 import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
+import Link from 'next/link';
 
 const Footer = () => {
   return (
-    <div>
-      Footer
-    </div>
+    <FooterWrapper>
+      <LinkList>
+        <LinkColumn>
+          <LinkTitle>Call</LinkTitle>
+          <LinkItem href="tel:510-673-7239">510-673-7239</LinkItem>
+        </LinkColumn>
+        <LinkColumn>
+          <LinkTitle>Email</LinkTitle>
+          <LinkItem href="mailto:austin.amaral3@gmail.com">austin.amaral3@gmail.com</LinkItem>
+        </LinkColumn>
+      </LinkList>
+      <SocialIconsContainer>
+        <CompanyContainer>
+          <Slogan>Trying to be 1% better every day</Slogan>
+        </CompanyContainer>
+        <SocialContainer>
+          <SocialIcons href="http://github.com/ClickAimbot">
+            <AiFillGithub size="3rem" />
+          </SocialIcons>
+          <SocialIcons href="http://linkedin.com/in/austin-amaral3">
+            <AiFillLinkedin size="3rem" />
+          </SocialIcons>
+          <SocialIcons href="http://instagram.com">
+            <AiFillInstagram size="3rem" />
+          </SocialIcons>
+        </SocialContainer>
+      </SocialIconsContainer>
+    </FooterWrapper>
   );
 };
 
