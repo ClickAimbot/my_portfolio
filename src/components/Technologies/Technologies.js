@@ -43,6 +43,7 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br/>
             Node and Databases <br/>
+            Mongo <br/>
             Express <br/>
             AWS <br/>
             SQL <br/>
