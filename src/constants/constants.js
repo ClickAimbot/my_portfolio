@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Bitcoin Tracker',
     description: "Using Vite, React, and Aircode.io, I created a Bitcoin Tracker that allows the user to see the current price of Bitcoin in USD. The user can also see the price change over the last 24 hours.",
-    image: '/images/btcpic.png',
+    image: '/images/btcpic.PNG',
     tags: ['React', 'AirCode.io', 'TypeScript'],
     source: 'https://github.com/ClickAimbot/bitcoin_tracking_app',
     visit: 'https://bitcoin-tracking-app.vercel.app/',
