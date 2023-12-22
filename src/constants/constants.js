@@ -8,15 +8,15 @@ export const projects = [
     visit: 'https://preppedup.net',
     id: 0,
   },
-  // {
-  //   title: 'Bitcoin Tracker',
-  //   description: "Using React, Next, and Tailwind I've created a mealprep serviced store - from start to finish. The App is called PreppedUp and it allows the user to create a plan based on their goals that is fully customizeable down to each ingredient.",
-  //   image: '/images/mp_homepage.png',
-  //   tags: ['React', 'AirCode.io', 'TypeScript'],
-  //   source: 'https://github.com/ClickAimbot/preppedup',
-  //   visit: 'https://preppedup.net',
-  //   id: 0,
-  // },
+  {
+    title: 'Bitcoin Tracker',
+    description: "Using Vite, React, and Aircode.io, I created a Bitcoin Tracker that allows the user to see the current price of Bitcoin in USD. The user can also see the price change over the last 24 hours.",
+    image: '/images/btcpic.png',
+    tags: ['React', 'AirCode.io', 'TypeScript'],
+    source: 'https://github.com/ClickAimbot/bitcoin_tracking_app',
+    visit: 'https://bitcoin-tracking-app.vercel.app/',
+    id: 1,
+  },
 ];
 
 export const TimeLineData = [
