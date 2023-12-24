@@ -20,18 +20,9 @@ const Technologies = () =>  (
           <ListParagraph>
             React.js <br/>
             Next.js <br/>
-            Tailwind <br/>
-            Redux <br/>
-            Hooks <br/>
-            Context API <br/>
-            Jest <br/>
-            Cypress <br/>
-            Yum <br/>
-            Axios <br/>
-            TypeScript <br/>
+            TailwindCSS <br/>
             JavaScript <br/>
-            HTML <br/>
-            CSS <br/>
+            TypeScript <br/>
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -40,16 +31,14 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Node <br/>
-            Mongo <br/>
+            Node.js <br/>
+            MongoDB <br/>
             Express <br/>
             AWS <br/>
             SQL <br/>
             PostgreSQL <br/>
             Docker <br/>
             Vercel <br/>
-            Heroku <br/>
-            Netlify <br/>
             Aircode.io <br/>
           </ListParagraph>
         </ListContainer>
