@@ -9,10 +9,10 @@ const Footer = () => {
   return (
     <FooterWrapper>
       <LinkList>
-        <LinkColumn>
+        {/* <LinkColumn>
           <LinkTitle>Call</LinkTitle>
           <LinkItem href="tel:510-673-7239">510-673-7239</LinkItem>
-        </LinkColumn>
+        </LinkColumn> */}
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:austin.amaral3@gmail.com">austin.amaral3@gmail.com</LinkItem>
@@ -20,7 +20,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Trying to be 1% better every day</Slogan>
+          <Slogan>Working every day to be 1% better</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="http://github.com/ClickAimbot">
@@ -29,9 +29,9 @@ const Footer = () => {
           <SocialIcons href="http://linkedin.com/in/austin-amaral3">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="http://instagram.com">
+          {/* <SocialIcons href="http://instagram.com">
             <AiFillInstagram size="3rem" />
-          </SocialIcons>
+          </SocialIcons> */}
         </SocialContainer>
       </SocialIconsContainer>
     </FooterWrapper>

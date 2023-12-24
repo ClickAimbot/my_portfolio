@@ -8,11 +8,11 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To My <br />
-        Personal Portfolio
+        Welcome To <br />
+        AT Web Services
       </SectionTitle>
       <SectionText>
-        I am a full stack developer with a passion for learning and creating an amazing user experience.
+        I am a full stack developer with a passion for creating an amazing user experience. 
       </SectionText>
       <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
     </LeftSection>

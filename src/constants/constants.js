@@ -3,7 +3,7 @@ export const projects = [
     title: 'PreppedUp',
     description: "Created a mealprep serviced store with an excellent user experience - from start to finish. The App is called PreppedUp and it allows the user to create a plan based on their goals that is fully customizeable down to each ingredient.",
     image: '/images/mp_homepage.PNG',
-    tags: ['React', 'Next.js', 'Tailwind', 'JavaScript', 'MongoDB'],
+    tags: ['React.js', 'Next.js', 'TailwindCSS', 'MongoDB'],
     source: 'https://github.com/ClickAimbot/preppedup',
     visit: 'https://preppedup.net',
     id: 0,
