@@ -7,7 +7,7 @@ const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider/>
     <br/>
-    <SectionTitle>Technologies</SectionTitle>
+    <SectionTitle>Skills</SectionTitle>
     <SectionText>
       I've worked with a range of technologies in the web development world.
       Coming from a Full Stack Web Development Course, I have a great understanding of both front and back end technologies.
@@ -40,19 +40,30 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Node and Databases <br/>
+            Node <br/>
             Mongo <br/>
             Express <br/>
             AWS <br/>
             SQL <br/>
             PostgreSQL <br/>
             Docker <br/>
-            Git CLI <br/>
-            GitHub <br/>
-            VS Code <br/>
             Vercel <br/>
             Heroku <br/>
             Netlify <br/>
+            Aircode.io <br/>
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiZend size="3rem"/>
+        <ListContainer>
+          <ListTitle>Tools</ListTitle>
+          <ListParagraph>
+            VS Code <br/>
+            Git CLI <br/>
+            GitHub <br/>
+            Figma <br/>
+            Canva <br/>
           </ListParagraph>
         </ListContainer>
       </ListItem>
