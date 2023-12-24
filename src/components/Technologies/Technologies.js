@@ -34,12 +34,8 @@ const Technologies = () =>  (
             Node.js <br/>
             MongoDB <br/>
             Express <br/>
-            AWS <br/>
             SQL <br/>
-            PostgreSQL <br/>
-            Docker <br/>
             Vercel <br/>
-            Aircode.io <br/>
           </ListParagraph>
         </ListContainer>
       </ListItem>
