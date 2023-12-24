@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
 export const Img = styled.img`
-  width:120px;
-  height:80px;
+  width:100%;
+  height:100%;
   object-fit: cover;
   overflow: hidden;
   rounded: 10px;
