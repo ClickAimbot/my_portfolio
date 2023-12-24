@@ -112,7 +112,6 @@ export const NavProductsIcon = styled(IoIosArrowDropdown)`
   }
 `;
 
-
 // Social Icons 
 
 export const SocialIcons = styled.a`
