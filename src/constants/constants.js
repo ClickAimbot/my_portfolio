@@ -9,13 +9,22 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'AI Image Creation Bot',
+    description: "Using React, TailwindCSS, and ChatGPT API, I created a chat bot that produces and image based off of a users input.",
+    image: '/images/btcpic.PNG',
+    tags: ['React', 'TailwindCSS', 'TypeScript', 'AI'],
+    source: 'https://github.com/ClickAimbot/ai_image_gen',
+    visit: 'https://getbind.co',
+    id: 1,
+  },
+  {
     title: 'Bitcoin Tracker',
     description: "Using Vite, React, and Aircode.io, I created a Bitcoin Tracker that allows the user to see the current price of Bitcoin in USD. The user can also see the price change over the last 24 hours.",
     image: '/images/btcpic.PNG',
     tags: ['React', 'AirCode.io', 'TypeScript'],
     source: 'https://github.com/ClickAimbot/bitcoin_tracking_app',
     visit: 'https://bitcoin-tracking-app.vercel.app/',
-    id: 1,
+    id: 2,
   },
 ];
 
