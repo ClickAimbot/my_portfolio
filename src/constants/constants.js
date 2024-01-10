@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'AI Image Creation Bot',
     description: "Using React, TailwindCSS, and ChatGPT API, I created a chat bot that produces and image based off of a users input.",
-    image: '/images/btcpic.PNG',
+    image: '/images/bind.PNG',
     tags: ['React', 'TailwindCSS', 'TypeScript', 'AI'],
     source: 'https://github.com/ClickAimbot/ai_image_gen',
     visit: 'https://getbind.co',
