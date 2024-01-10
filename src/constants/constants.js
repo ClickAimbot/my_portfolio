@@ -18,13 +18,22 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'Cleaning Club Services',
+    description: "Using Next.js and TailwindCSS, I created a website for a cleaning company that allows the user to book a cleaning service. The website also has a blog section that allows the user to read about cleaning prodedures and to get a free estimate.",
+    image: '/images/CCS.PNG',
+    tags: ['React', 'TailwindCSS', 'JavaScript'],
+    source: 'https://github.com/ClickAimbot/flor_store',
+    visit: 'https://flor-store.vercel.app/',
+    id: 2,
+  },
+  {
     title: 'Bitcoin Tracker',
     description: "Using Vite, React, and Aircode.io, I created a Bitcoin Tracker that allows the user to see the current price of Bitcoin in USD. The user can also see the price change over the last 24 hours.",
     image: '/images/btcpic.PNG',
     tags: ['React', 'AirCode.io', 'TypeScript'],
     source: 'https://github.com/ClickAimbot/bitcoin_tracking_app',
     visit: 'https://bitcoin-tracking-app.vercel.app/',
-    id: 2,
+    id: 3,
   },
 ];
 
