@@ -23,7 +23,7 @@ export const projects = [
     image: '/images/CCS.PNG',
     tags: ['React', 'TailwindCSS', 'JavaScript'],
     source: 'https://github.com/ClickAimbot/flor_store',
-    visit: 'https://flor-store.vercel.app/',
+    visit: 'https://www.cleaningclubservices.com/',
     id: 2,
   },
   {
@@ -35,11 +35,23 @@ export const projects = [
     visit: 'https://bitcoin-tracking-app.vercel.app/',
     id: 3,
   },
+  {
+    title: 'Fitness Website',
+    description: "Using Next.js, MondoDB, and TailwindCSS, I created a fitness website that allows the user to purchase in person or online training. See the trainers recommended supplements. Testimonials for the trainer to show to potential clients thinking about joining.",
+    image: '/images/CSS.PNG',
+    tags: ['React', 'Next.js', 'JavaScript', 'MongoDB'],
+    source: 'https://github.com/ClickAimbot/atfitness',
+    visit: 'https://atfitness.vercel.app/',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
   { year: 2023, month: "April", text: 'Started my journey @ BloomTech University', },
   { year: 2023, month: "October", text: 'Started my First Personal Project for (PreppedUp)', },
-  { year: 2023, month: "December", text: 'Graduated From BloomTech', },
+  { year: 2024, month: "January", text: 'Started my Second Personal Project for (AI Image Creation Bot)', },
+  { year: 2024, month: "January", text: 'Started my Third Personal Project for (Cleaning Club Services)', },
+  { year: 2024, month: "January", text: 'Started my Fourth Personal Project for (Fitness Website)', },
+  { year: 2024, month: "January", text: 'Graduated From BloomTech', },
   
 ];
