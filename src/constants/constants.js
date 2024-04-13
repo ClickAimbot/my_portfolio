@@ -43,6 +43,5 @@ export const TimeLineData = [
   { year: 2024, month: "January", text: 'Started my Second Personal Project for (AI Image Creation Bot)', },
   { year: 2024, month: "January", text: 'Started my Third Personal Project for (Cleaning Club Services)', },
   { year: 2024, month: "January", text: 'Started my Fourth Personal Project for (Fitness Website)', },
-  { year: 2024, month: "January", text: 'Graduated From BloomTech', },
-  
+  { year: 2024, month: "April", text: 'Graduated From BloomTech', },  
 ];
